@@ -1,0 +1,3 @@
+[submodule "npmprune"]
+	path = npmprune
+	url = git@github.com:xthezealot/npmprune.git

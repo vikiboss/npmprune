@@ -1,0 +1,16 @@
+{
+  "name": "npmprune",
+  "version": "0.0.1",
+  "bin": "./npmprune/npmprune.sh",
+  "description": "an lightweight script designed to clean up your node_modules",
+  "files": [
+    "npmprune"
+  ],
+  "keywords": [
+    "script",
+    "cleanup",
+    "node_modules"
+  ],
+  "author": "Viki <hi@viki.moe> (https://github.com/vikiboss)",
+  "license": "MIT"
+}
